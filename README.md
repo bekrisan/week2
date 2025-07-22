@@ -2,8 +2,7 @@
 <!-- Typing animation -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=FUbuntu+Mono&size=38&pause=100&color=F78C6B&center=true&vCenter=true&width=440&lines=Hi+I'm+HAHA Bilguun!;Full-Stack+Developer;JLPT+N2+Certified;Deploying+for+Japan"
-    alt="Typing SVG"
+    src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&size=32&pause=1000&color=60C6F7&background=6FFF8100&center=true&width=435&lines=MANDARWAA+DARWAA!!!)](https://git.io/typing-svg)"
   />
 </p>
 
